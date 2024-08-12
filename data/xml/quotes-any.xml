@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <Quotes>
+  	<Quote>
+    	<quote> </quote>
+    	<person>Lionel Messi</person>
+    	<pub>Marca</pub>
+    	<source>Source Title</source>
+    	<quote_href>quote1.part.html</quote_href>
+  	</Quote>
+  	<Quote>
+    	<quote> </quote>
+    	<person>Bob Marley</person>
+    	<pub>Jamaica</pub>
+    	<source>Source Title</source>
+    	<quote_href>quote2.part.html</quote_href>
+  	</Quote>
+  </Quotes>

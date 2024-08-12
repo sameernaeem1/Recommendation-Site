@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KeyPlayerItems>
+	<KeyPlayer>
+		<name>Lionel Messi</name>
+		<key_href>messi</key_href>
+		<desc>Argentinean Maestro, widely considered one of the greatest
+			players ever to grace a pitch.</desc>
+	</KeyPlayer>
+	<KeyPlayer>
+		<name>Luis Suarez</name>
+		<key_href>suarez</key_href>
+		<desc>Majestic, yet volatile Striker, who has risen to become one of
+			the deadliest marksmen in world football.</desc>
+	</KeyPlayer>
+	<KeyPlayer>
+		<name>Neymar</name>
+		<key_href>neymar</key_href>
+		<desc>With silky skills making way to excellent team play, great
+			understanding and pace to burn, Neymar is fast becoming a Barca
+			legend.</desc>
+	</KeyPlayer>
+</KeyPlayerItems>

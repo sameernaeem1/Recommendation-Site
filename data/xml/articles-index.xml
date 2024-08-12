@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading>Team Spotlight</heading>
+    <tagline>This Week: FC Barcelona</tagline>
+    <storyimg_href>ph/ph-320x180.png</storyimg_href>
+    <content> </content>
+    <article_href>article1.part.html</article_href>
+    <summary> </summary>
+    <link>clubinfo.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  <Article>
+    <heading>Latest Barca News</heading>
+    <tagline>The Kings of Catalonia</tagline>
+    <storyimg_href>ph/ph-320x180.png</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary>Catch up on all of the new relating to Barcelona's superstars.</summary>
+    <link>news.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  <Article>
+    <heading>Team Spotlight</heading>
+    <tagline>This Week: FC Barcelona</tagline>
+    <storyimg_href>ph/ph-320x180.png</storyimg_href>
+    <content> </content>
+    <article_href>article1.part.html</article_href>
+    <summary> </summary>
+    <link>clubinfo.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+</Articles>

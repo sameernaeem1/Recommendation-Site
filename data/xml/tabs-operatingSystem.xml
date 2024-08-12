@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+    <tabid>overview</tabid>
+    <tabname>iOS</tabname>
+    <content_href>tab-iosoverview.part.html</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>ios4</tabid>
+    <tabname>iOS 4 vs iOS 16</tabname>
+    <content_href>tab-ios4vs16.part.html</content_href>
+    <content> </content>
+  </Tab>
+</Tabs>

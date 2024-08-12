@@ -1,0 +1,6 @@
+{"id":1,"deviceid":1,"firstname":"John","lastname":"Smith","devicerating":4,"reviewtitle":"Terrible Phone!","reviewdesc":"I hate how bad the screen is."}
+{"id":2,"deviceid":1,"firstname":"Bob","lastname":"Jones","devicerating":6,"reviewtitle":"It's okay I guess","reviewdesc":"Does the job at a cheap price."}
+{"id":3,"deviceid":2,"firstname":"Ray","lastname":"Johnson","devicerating":10,"reviewtitle":"The perfect Phone","reviewdesc":"I love everything about it."}
+{"id":4,"deviceid":2,"firstname":"Jeff","lastname":"Davies","devicerating":2,"reviewtitle":"What is this?","reviewdesc":"I hate phones."}
+{"id":5,"deviceid":3,"firstname":"Jack","lastname":"Jack","devicerating":7,"reviewtitle":"My first android","reviewdesc":"It's pretty good!"}
+{"id":6,"deviceid":3,"firstname":"man","lastname":"george","devicerating":"9","reviewtitle":"great","reviewdesc":"good phone"}
